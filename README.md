@@ -3,7 +3,9 @@
 - 🎓 I'm looking to share my expertise in Microsoft Purview, Defender and EntraID
 - 🔭 I’m currently working on agent building in Microsoft Foundry: <https://ai.azure.com>
 - 🌱 I’m currently studying for the AZ-102: Microsoft Certified: Azure AI Engineer Associate certification
-- Always learning! Welcome to my Github page
+
+  Always learning!
+  Welcome to my Github page
 
   
 <!--
