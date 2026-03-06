@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Norton! 👋
+
+📍 Chicago
 
 - 🎓 Sharing my expertise in Microsoft Purview, Defender and EntraID
 - 🔭 I’m currently tinkering with agent building in Microsoft Foundry: <https://ai.azure.com>
