@@ -13,7 +13,7 @@
 ## What I'm Doing
 
 - **Microsoft Foundry** - Learning and building in Microsoft Foundry (previously Azure AI Foundry) <https://ai.azure.com>
-- **Writing** - Share content on Security and Compliance for AI
+- **Blog** - Sharing content on Security and Compliance for AI
 - **Study List** - 🌱 I’m currently studying for the AZ-102: Microsoft Certified: Azure AI Engineer Associate certification
 ---
 
