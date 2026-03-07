@@ -1,11 +1,12 @@
 ## Hi, I'm Norton 👋
 
-📍 **Chicago** |  🛡️ **Security, Identity and AI**  @ ![Microsoft](https://img.shields.io/badge/Microsoft-green?logo=Microsoft)
+🛡️ **Security, Identity and AI**  @ ![Microsoft](https://img.shields.io/badge/Microsoft-green?logo=Microsoft)
 ---
+📍 **Chicago** 
 
 ## 🔭 whoami
 - 💼💻 Sr. Consultant | ☁️🛡️ Security, Identity & AI | 🎓 11x Microsoft Certified
-- 🎓 Previously GIAC Certified: GCIH, GPEN, GSEC
+- 🎓 Previously GIAC Certified: GCIH, GPEN, GSEC, GSIF
 - 🔭 Helping customers strengthen data protection (**Purview**), prepare for Copilot and AI (**DSPM**), streamline identity security (**Entra ID & Conditional Access**), and elevate their email, endpoint and cloud security (**Defender XDR**)
 - Mission: Empowering our customers to achive more, and in **Becoming Frontier**
 ---
@@ -14,7 +15,7 @@
 
 - **Microsoft Foundry** - Learning and building in Microsoft Foundry (previously Azure AI Foundry) <https://ai.azure.com>
 - **Blog** - Sharing content on Security and Compliance for AI
-- **Study List** - 🌱 I’m currently studying for the AZ-102: Microsoft Certified: Azure AI Engineer Associate certification
+- **Study List** - 🌱 I’m currently studying for the AZ-102: Microsoft Certified: Azure AI Engineer Associate cert
 ---
 
 ### ⚡Philosophy
